@@ -1,1 +1,1 @@
-
+Use this grasshopper definition that utilizes the Array 3D Component
